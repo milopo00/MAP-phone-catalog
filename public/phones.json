@@ -1,0 +1,50 @@
+[
+        {
+            "id":0,
+            "name":"iPhone7",
+            "manufacturer":"Apple",
+            "description":"lorem ipsum dolor sit amet consectetur.",
+            "color":"black",
+            "price":769,
+            "imageFileName":"https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP743/iphone7-jetblack_2x.png",
+            "screen":"4.2 inch IPS",
+            "processor":"A10 Fusion",
+            "ram":64
+        },
+        {
+            "id":1,
+            "name":"iPhone11",
+            "manufacturer":"Apple",
+            "description":"lorem ipsum dolor sit amet consectetur.",
+            "color":"white",
+            "price":589,
+            "imageFileName":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone11-white-select-2019_GEO_EMEA?wid=470&hei=556&fmt=png-alpha&.v=1567021770073",
+            "screen":"6.1 inch IPS",
+            "processor":"A13 Biotonic chip",
+            "ram":64
+        },
+        {
+            "id":2,
+            "name":"iPhone12",
+            "manufacturer":"Apple",
+            "description":"lorem ipsum dolor sit amet consectetur.",
+            "color":"red",
+            "price":769,
+            "imageFileName":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-red-select-2020?wid=470&hei=556&fmt=png-alpha&.v=1604343703000",
+            "screen":"6.1 inch IPS",
+            "processor":"A14 Biotonic chip",
+            "ram":64
+        },
+        {
+            "id":3,
+            "name":"iPhoneXR",
+            "manufacturer":"Apple",
+            "description":"lorem ipsum dolor sit amet consectetur.",
+            "color":"white",
+            "price":489,
+            "imageFileName":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-xr-white-select-201809?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1551226036668",
+            "screen":"4,7 inch IPS",
+            "processor":"A13 Bionic",
+            "ram":64
+        }
+    ]
